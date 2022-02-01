@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vikiebd
-- 👀 I’m interested in artificial intelligence, machine learning, big data, AI apps
-- 🌱 I’m currently learning artificial intelligence
+- 👋 Hi, I’m @vikiebaud
+- 👀 I’m interested in artificial intelligence, machine learning, data science, big data, AI apps
+- 🌱 I’m currently learning artificial intelligence and data science
 - 💞️ I’m looking to collaborate on artificial intelligence and machine learning projects
 - 📫 How to reach me ...
 
